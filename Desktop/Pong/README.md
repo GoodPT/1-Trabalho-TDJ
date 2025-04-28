@@ -29,3 +29,6 @@ com lógica básica de movimentação e colisão.
 2. Clonar ou descarregar este repositório.
 3. Abrir o projeto no Visual Studio.
 4. Compilar e executar o projeto.
+
+## Repositorio Original
+https://github.com/dapeduu/Pong
